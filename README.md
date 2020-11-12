@@ -1,3 +1,5 @@
+Click on the image below to see a breif example of this programs output!
+
 [![Example Usage](https://img.youtube.com/vi/t9Chp9cZtVs/0.jpg)](https://youtu.be/t9Chp9cZtVs)
 
 User Documentation:
