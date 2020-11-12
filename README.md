@@ -1,3 +1,5 @@
+[![Example Usage](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://youtu.be/t9Chp9cZtVs)
+
 User Documentation:
 
 	Availible Commands:
